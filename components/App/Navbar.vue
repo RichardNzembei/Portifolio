@@ -27,7 +27,7 @@
 </template>
 
 <script setup>
-import { useFixedHeader } from '~/composables/useFixedHeader';
+import { useFixedHeader } from 'vue-use-fixed-header';
 const headerRef = ref(null);
 const { styles } = useFixedHeader(headerRef);
 
