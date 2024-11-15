@@ -22,7 +22,7 @@
   <script setup lang="ts">
 
 const { data: projects } = await useAsyncData("projects-all", () =>
-  queryContent("/projects").find()
+  queryContent("/projects").limit(3).find()
 );
 
 
