@@ -29,7 +29,7 @@ const links = [
     },
     {
         name: "Linkedin",
-        url: "https://www.linkedin.com/in/fayaz-aralikatti/",
+        url: "https://www.linkedin.com/in/richard-reuben9/",
         icon: "mdi:linkedin",
     },
     {

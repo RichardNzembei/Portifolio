@@ -20,8 +20,9 @@
     </div>
 </template>
 <script lang="ts">
-import Projects from '~/pages/projects.vue';
+
 const { data: projects } = await useAsyncData("projects-all", () =>
   queryContent("/projects").find()
 );
+
 </script>
