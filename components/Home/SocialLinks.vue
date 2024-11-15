@@ -19,12 +19,12 @@
 const links = [
     {
         name: "Stack Overflow",
-        url: "https://twitter.com/fayazara",
-        icon: "mdi:twitter",
+        url: "https://stackoverflow.com/users/23212627/saint",
+        icon: "mdi:stackoverflow",
     },
     {
         name: "GitHub",
-        url: "https://github.com/fayazara",
+        url: "https://github.com/RichardNzembei",
         icon: "mdi:github",
     },
     {
@@ -34,18 +34,18 @@ const links = [
     },
     {
         name: "Discord",
-        url: "https://t.me/fayazara",
-        icon: "mdi:telegram",
+        url: "",
+        icon: "mdi:discord",
     },
     {
         name: "Reddit",
-        url: "https://t.me/fayazara",
-        icon: "mdi:telegram",
+        url: "https://www.reddit.com/u/codegeni/s/rfilGfvoj9",
+        icon: "mdi:reddit",
     },
     {
         name: "Instagram",
         url: "https://t.me/fayazara",
-        icon: "mdi:telegram",
+        icon: "mdi:instagram",
     },
 ];
 </script>
