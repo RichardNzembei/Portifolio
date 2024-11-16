@@ -7,8 +7,7 @@
       Hello!
     </h1>
     <p class="text-gray-900 dark:text-gray-400">
-      I'm Richard, a software engineer based in Nairobi, Kenya. I specialize in building impactful web applications and
-      solutions using Vue, Node.js, and Firebase. This is my personal space on the internet where I share projects,
+      I'm Richard, a software engineer based in Nairobi, Kenya. I am determined in driving technological solutions through a cutting edge. This is my personal space on the internet where I share projects,
       thoughts, and tech explorations.
     </p>
     <p class="text-gray-900 dark:text-gray-400">
