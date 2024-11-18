@@ -47,7 +47,7 @@ const items = [
     {
         name: "Bookmarks",
         path: "/bookmarks",
-        icon: "mdi:bookmark-linear",
+        icon: "solar:bookmark-linear",
     },
 ];
 </script>

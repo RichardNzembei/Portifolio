@@ -80,9 +80,3 @@ defineProps({
 
 const tab = ref("preview");
 </script>
-
-<style scoped>
-.active-tab {
-  @apply after:content-[''] after:absolute after:w-full after:h-0.5 after:bg-primary-500 after:bottom-[-9px] after:left-0 after:pointer-events-none;
-}
-</style>
