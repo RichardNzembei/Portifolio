@@ -13,8 +13,8 @@
     </p>
     <p class="text-gray-900 dark:text-gray-400">
       By day, I'm focused on developing solutions at
-      <a href="https://github.com/AgriLink-Africa-Startup" target="_blank"
-        class="underline">AgriLink-Africa-Startup</a>, and during my personal time, I'm usually experimenting with new
+      <a href="" target="_blank"
+        class="underline">SwiftLink-Solutions</a>, and during my personal time, I'm usually experimenting with new
       technologies and building tools to solve real-world problems.
     </p>
   </div>
